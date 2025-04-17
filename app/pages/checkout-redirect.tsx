@@ -17,5 +17,5 @@ export default function CheckoutRedirect() {
     }
   }, [router]);
 
-  return <p>Redirecting to checkout...</p>;
+  return <p>Redirecting to checkout.....</p>;
 }
